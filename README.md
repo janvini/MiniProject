@@ -6,7 +6,7 @@ This project demonstrates a comprehensive process of building and evaluating mac
 
 ## Files
 
-- **Mini Project ML.ipynb**: The main Jupyter notebook file containing all the code and explanations for the project. It includes the following steps:
+- The main Jupyter notebook file containing all the code and explanations for the project. It includes the following steps:
   - Data loading and exploration
   - Data preprocessing (handling missing values, encoding categorical variables, etc.)
   - Model training using various machine learning algorithms
